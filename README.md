@@ -48,4 +48,21 @@ python script_name.py
 ```
 
 ---
-This repository serves as a great introduction to data visualization using Python, showcasing different real-world applications. Happy coding!
+This repository serves as a great introduction to data visualization using Python, showcasing different real-world applications. 
+
+## 📖 Reference  
+This project is based on guided exercises from **Python Crash Course A hands-On, Project Based Introduction to Programming** by **Eric Matthes**.  
+All credit goes to the original author for providing these valuable learning resources.  
+
+---
+
+## 📜 License  
+This repository is intended for **learning purposes only**.  
+
+- If you use or modify these projects, please provide **appropriate credit** to the original author.  
+- Any **redistribution or commercial use** should follow the terms outlined by the book/publisher.  
+- If you are the original author and have concerns, feel free to reach out.  
+
+---
+
+💡 *Happy coding! 🚀*  
